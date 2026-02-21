@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-micro-node-controller-secure-zti",
+  "version": "1.0.0",
+  "description": "Intelligent automation framework",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "micro-node-controller-secure-zti"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-micro-node-controller-secure-zti.git"
+  }
+}
